@@ -7,6 +7,7 @@ The participants are required to utilize SQL and Python programming language and
 
 
 You can download the data for this project here, (it is an excel workbook) 
+
  https://github.com/HarunMbaabu/Data-Analyst-Assessment/blob/main/Junior%20Data%20Analyst%20_%20Data.xlsx 
 
 ### Please do the following: 
@@ -16,5 +17,5 @@ You can download the data for this project here, (it is an excel workbook)
  - Model the Battery Charge Level
 
 
-## Project Overview 
+## Expected 
 This project involves analyzing solar electricity generation, electricity usage, and battery usage data to understand the potential benefits of using a battery system to store excess solar electricity. The project utilizes the Python programming language and various libraries, including pandas for data manipulation, numpy for numerical operations, matplotlib for data visualization, and datetime for handling time-related data
